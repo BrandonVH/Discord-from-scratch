@@ -47,6 +47,9 @@ All postgreSQL table CREATE commands are in /backend/layout/tables.sql
 * WIP: User profile page
 * WIP: Adding file upload and multiple data types
 
+## Testing
+Vitest + Jest + Seleniunm (DM for access)
+
 ## Endpoints
 v1 backend API Documentation: todo
 
