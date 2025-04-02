@@ -43,6 +43,7 @@ All postgreSQL table CREATE commands are in /backend/layout/tables.sql
 
 ## Known issues (Work In Progress)
 * desync between main database and cache database due to render's redis free tier being non-persistent
+* WIP: Add queueing when preceeding messages from the same chat gets delayed due to server error 
 * WIP: Stop using websocket to send blobs
 * WIP: User profile page
 * WIP: Adding file upload and multiple data types
